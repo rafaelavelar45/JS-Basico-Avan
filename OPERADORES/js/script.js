@@ -1,5 +1,4 @@
 
-/*
 
 // 1 -  Tipo Number
 console.log(typeof 2);
